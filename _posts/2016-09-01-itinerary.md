@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-09-01T15:09:50.738Z'
+datePublished: '2016-09-01T15:10:40.748Z'
+sourcePath: _posts/2016-09-01-itinerary.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T15:09:33.625Z'
-title: Itinerary
+dateModified: '2016-09-01T15:10:40.062Z'
+title: 'Atrani (Day 13): Atrani & Ravello'
 publisher: {}
 description: >-
   Today we hopped on the the Sita bus towards Amalfi as we continue on down the
@@ -16,10 +17,10 @@ description: >-
   hopped off for a 10km hike back down to Sorrento. About 1:30hrs in, we arrived
   in Amalfi town.
 starred: false
-sourcePath: _posts/2016-09-01-itinerary.md
 _type: Blurb
 
 ---
+# Atrani (Day 13): Atrani & Ravello
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44939c83-491d-48b7-b710-001f448c513a.jpg)
 
 ## Itinerary
