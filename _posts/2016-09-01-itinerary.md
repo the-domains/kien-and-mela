@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T15:10:40.748Z'
+datePublished: '2016-09-01T15:14:56.962Z'
 sourcePath: _posts/2016-09-01-itinerary.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T15:10:40.062Z'
+dateModified: '2016-09-01T15:14:56.539Z'
 title: 'Atrani (Day 13): Atrani & Ravello'
 publisher: {}
 description: >-
